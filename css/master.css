@@ -1,0 +1,40 @@
+
+
+body {
+  font-family: verdana;
+  text-align: center;
+  padding: 2px;
+}
+
+.title {
+  font-size: 5vh;
+  color: red;
+  position: relative;
+  clear: both;
+}
+
+.theEnemy, .thePlayer {
+  font-size: 4vh;
+}
+
+.enemyCardi {
+  width: 20vh;
+}
+
+.playerCardi {
+  width: 20vh;
+}
+
+.resultsp {
+  font-style: italic;
+}
+
+#enemyCard {
+  float: left;
+  margin-left: 20vw;
+}
+
+#playerCard {
+  float: right;
+  margin-right: 20vw;
+}
